@@ -1,0 +1,19 @@
+création d'un repo sur Github
+init en local du projet
+git add
+git commit
+git push origin master
+
+
+BRANCHING
+git ch -b <branche>
+
+
+MERGING
+git merge <branche>
+
+CLONE:
+git clone https://github.com/refschool/tutogit.git
+
+PULL:
+git pull
